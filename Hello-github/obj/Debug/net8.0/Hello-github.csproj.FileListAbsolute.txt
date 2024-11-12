@@ -1,0 +1,14 @@
+C:\Users\israe\OneDrive\Documents\Cours_la_cite\Assu_qualité_logicielle\hello-github\Hello-github\bin\Debug\net8.0\Hello-github.exe
+C:\Users\israe\OneDrive\Documents\Cours_la_cite\Assu_qualité_logicielle\hello-github\Hello-github\bin\Debug\net8.0\Hello-github.deps.json
+C:\Users\israe\OneDrive\Documents\Cours_la_cite\Assu_qualité_logicielle\hello-github\Hello-github\bin\Debug\net8.0\Hello-github.runtimeconfig.json
+C:\Users\israe\OneDrive\Documents\Cours_la_cite\Assu_qualité_logicielle\hello-github\Hello-github\bin\Debug\net8.0\Hello-github.dll
+C:\Users\israe\OneDrive\Documents\Cours_la_cite\Assu_qualité_logicielle\hello-github\Hello-github\bin\Debug\net8.0\Hello-github.pdb
+C:\Users\israe\OneDrive\Documents\Cours_la_cite\Assu_qualité_logicielle\hello-github\Hello-github\obj\Debug\net8.0\Hello-github.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\israe\OneDrive\Documents\Cours_la_cite\Assu_qualité_logicielle\hello-github\Hello-github\obj\Debug\net8.0\Hello-github.AssemblyInfoInputs.cache
+C:\Users\israe\OneDrive\Documents\Cours_la_cite\Assu_qualité_logicielle\hello-github\Hello-github\obj\Debug\net8.0\Hello-github.AssemblyInfo.cs
+C:\Users\israe\OneDrive\Documents\Cours_la_cite\Assu_qualité_logicielle\hello-github\Hello-github\obj\Debug\net8.0\Hello-github.csproj.CoreCompileInputs.cache
+C:\Users\israe\OneDrive\Documents\Cours_la_cite\Assu_qualité_logicielle\hello-github\Hello-github\obj\Debug\net8.0\Hello-github.dll
+C:\Users\israe\OneDrive\Documents\Cours_la_cite\Assu_qualité_logicielle\hello-github\Hello-github\obj\Debug\net8.0\refint\Hello-github.dll
+C:\Users\israe\OneDrive\Documents\Cours_la_cite\Assu_qualité_logicielle\hello-github\Hello-github\obj\Debug\net8.0\Hello-github.pdb
+C:\Users\israe\OneDrive\Documents\Cours_la_cite\Assu_qualité_logicielle\hello-github\Hello-github\obj\Debug\net8.0\Hello-github.genruntimeconfig.cache
+C:\Users\israe\OneDrive\Documents\Cours_la_cite\Assu_qualité_logicielle\hello-github\Hello-github\obj\Debug\net8.0\ref\Hello-github.dll
